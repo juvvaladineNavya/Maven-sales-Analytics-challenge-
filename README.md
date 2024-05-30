@@ -9,3 +9,5 @@ Products - listing of products supplied by MavenTech and their sales price.
 Sales Pipeline - where the individual sales are logged along with agent, sales values and deal stage.
 Sales Teams - provides the MavenTech team breakdown by region, area manager then agents.
 The project focuses on Sales Managers, each overseeing three specific regions in the United States. The hierarchy is organized by region, Sales Manager, and their respective agents. Users can view individual regions or an overall summary. 
+
+https://mavenanalytics.io/challenges/maven-sales-challenge/8f59bcfa-d310-4947-b3d8-917b3cce270e
